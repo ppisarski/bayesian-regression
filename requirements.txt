@@ -1,0 +1,23 @@
+numpy
+scipy
+statsmodels
+pandas
+joblib
+tqdm
+scikit-learn
+arviz
+bambi
+patsy
+pickleshare
+typing_extensions
+
+corner
+matplotlib
+plotly
+seaborn
+# dash
+# dash_bootstrap_components
+# xarray==2022.3.0
+
+jupyter
+notebook
